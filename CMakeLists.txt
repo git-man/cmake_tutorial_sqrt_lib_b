@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.20)
 
 # set project name
 project(DepB
-	VERSION 4.3.2.1
+	VERSION 4.3.3.1
 	LANGUAGES CXX
 	)
 
